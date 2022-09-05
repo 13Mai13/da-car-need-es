@@ -29,3 +29,5 @@ Population from [INE](https://www.ine.es/dynt3/inebase/es/index.htm?padre=517&ca
 * Create virtualenv `pyenv virtualenv 3.10.5 venv`
 
 * Install all the requirements `pyenv activate venv` & `pip install requirements.txt`
+
+* Start jupyter `jupyter-lab`
