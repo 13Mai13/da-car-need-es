@@ -4,6 +4,8 @@ Does half of the population of Spain need a car or not?
 
 ## Conclusion
 
+According to just population we can assume that 76.12% live in less populated areas. However we have not included characteristics (ages, number of working people etc) and the city characteristics (sparsity, public transport level, number of working people, ...). The only proxy for service level is the number of habitants. 
+
 ## Problem statemet
 
 H0: Less than half of the population of Spain don't need a car
@@ -12,11 +14,13 @@ H1: Half or more of the population of Spain need a car
 
 ## Considerations
 
-### What is to need a car? 
+The only use the total amount of habitants as a proxy to service level
 
+### Possible improvements 
 
-This will be an inference analysis therefore we are aware that the numbers won't be precise and some erros will be a assumed. 
+* City Characteristics (sparsity, number of public transport, how does it arrive to different areas...)
 
+* Population characteristics (Age, working or not, where are they employed, ...)
 
 ## Data 
 
